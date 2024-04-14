@@ -7,7 +7,7 @@
 
 3) Install below library:
     
-    pip install bleak
+    pip install bleak ( optional if installing Kaspermicrobit library(**wrapper of bleak library**))
     
     pip install kaspersmicrobit
  
